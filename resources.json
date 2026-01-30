@@ -1,0 +1,22 @@
+{
+  "learning_resources": [
+    {
+      "name": "British Council Kids",
+      "url": "https://learnenglishkids.britishcouncil.org/speak-spell",
+      "focus": "Phonics & Songs",
+      "accent": "British (Standard)"
+    },
+    {
+      "name": "Oxford Owl",
+      "url": "https://home.oxfordowl.co.uk/",
+      "focus": "e-Books (ORT)",
+      "description": "영국 초등 필독서 옥스포드 리딩 트리 제공"
+    },
+    {
+      "name": "BBC Bitesize",
+      "url": "https://www.bbc.co.uk/bitesize/topics/zcqqtfr",
+      "focus": "Phonics (KS1)",
+      "description": "영국 현지 초등 1~2학년 정규 교과"
+    }
+  ]
+}
